@@ -15,4 +15,5 @@ class Person
  end
 end
 
+susan_attributes = (name => "suzan", birthday => 1988, eye_color => "Green")
 susan = Person.new(susan_attributes)
